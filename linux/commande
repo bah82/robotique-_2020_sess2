@@ -1,0 +1,16 @@
+sudo
+      super user do : on demande a l'administrateur d' efectuer la commande qui faut
+apt
+aptitude :gestionnaire de paquet pour les maj et instalation du programme
+    update:recherche les maj
+    upgrade:installer les maj
+    install : suivis du nom du logiciel a installer
+    remove : suivis du nom du logiciel  a desinstaller
+
+cd
+ls
+mkidr
+touch
+rm
+cp
+mv
